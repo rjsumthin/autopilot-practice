@@ -1,0 +1,9 @@
+{
+  "name": "autopilot-practice",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Practice repo for testing safety locks. Renewal-date calculator with made-up data.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
